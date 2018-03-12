@@ -1,0 +1,24 @@
+{
+  "name": "tRaining",
+  "displayName": "tRaining",
+  "expo": {
+    "name": "tRaining",
+    "slug": "training",
+    "sdkVersion": "25.0.0",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.training"
+    },
+    "android": {
+      "package": "com.training",
+      "versionCode": 1,
+      "permissions": [
+        "CAMERA",
+        "ACCESS_FINE_LOCATION",
+        "READ_EXTERNAL_STORAGE",
+        "READ_PHONE_STATE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    }
+  }
+}
